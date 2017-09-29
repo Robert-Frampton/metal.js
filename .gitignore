@@ -2,4 +2,5 @@ build
 coverage
 node_modules
 lib
+!packages/metal-web-component/lib
 **/*.soy.js

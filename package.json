@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "metal.js",
+  "version": "1.0.0",
   "scripts": {
     "compile": "gulp build:cjs",
     "format": "gulp format",
